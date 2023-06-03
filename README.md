@@ -1,10 +1,10 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this project I developed my knowledge in C++ by learning how to use vectors in my program
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+In this program,  I made a rainfall prediction program that will take what the user inputs and it will store it in a vector and will predict whether the harvest will survive or not
 
-{Describe your purpose for writing this software.}
+The purpose of this software was to further my knowledge of vectors and to master how to implement and pull information from vectors.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,21 +12,18 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio to do my code for this project
 
-{Describe the programming language that you used and any libraries.}
+For this program I used a couple of different libraries such as Vector, String, iostream, sstream and iomanip in order for me to use vectors properly and in order to use specific vectors that store specific information
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/vector-in-cpp-stl/#)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
+- make a couple bug fixes with my code
+- improve the randomness of my program to where it generates a random number each time
 - Item 3
